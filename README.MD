@@ -1,2 +1,2 @@
-#firstYearUni-Cprojects
-first C projects I made when I started learning.
+# firstYearUni-Cprojects
+First C projects I made when I started learning.
